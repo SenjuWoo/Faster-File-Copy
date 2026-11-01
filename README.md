@@ -7,6 +7,7 @@
 # Faster-File-Copy
 
 <p>
+  <a href="https://github.com/SenjuWoo/Faster-File-Copy/actions/workflows/build.yml"><img src="https://github.com/SenjuWoo/Faster-File-Copy/actions/workflows/build.yml/badge.svg" alt="CI"></a>
   <a href="https://github.com/SenjuWoo/Faster-File-Copy/releases/latest"><img src="https://img.shields.io/github/v/release/SenjuWoo/Faster-File-Copy?label=release&color=2E6E6B&labelColor=0d1117" alt="latest release"></a>
 </p>
 
